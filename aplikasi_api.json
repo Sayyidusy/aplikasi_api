@@ -2,52 +2,52 @@
   {
     "dataTitle": "Adobe Photoshop",
     "desc": "Adobe Photoshop adalah perangkat lunak pengeditan foto dan grafis yang dikembangkan oleh Adobe Systems. Program ini memungkinkan penggunanya untuk mengedit, memanipulasi, dan memperbaiki foto dan gambar digital dengan berbagai alat seperti pensil, kuas, dan filter.",
-    "dataImage":"ps"
+    "dataImage":"ps.png"
   },
   {
     "dataTitle": "Adobe Lightroom",
     "desc": "Adobe Lightroom adalah perangkat lunak pengeditan foto dan grafis yang dikembangkan oleh Adobe Systems. Program ini memungkinkan penggunanya untuk mengedit, memanipulasi, dan memperbaiki foto dan gambar digital dengan berbagai alat seperti pensil, kuas, dan filter.",
-    "dataImage":"lr"
+    "dataImage":"lr.png"
   },
   {
     "dataTitle": "Adobe Photoshop Camera",
     "desc": "Adobe Photoshop Camera adalah aplikasi kamera yang dikembangkan oleh Adobe Systems. Program ini memungkinkan penggunanya untuk mengedit, memanipulasi, dan memperbaiki foto dan gambar digital dengan berbagai alat seperti pensil, kuas, dan filter.",
-    "dataImage":"psc"
+    "dataImage":"psc.png"
   },
   {
     "dataTitle": "Adobe Premiere",
     "desc": "Adobe Premiere adalah aplikasi pengeditan video yang dikembangkan oleh Adobe Systems. Program ini memungkinkan penggunanya untuk mengedit, memanipulasi, dan memperbaiki foto dan gambar digital dengan berbagai alat seperti pensil, kuas, dan filter.",
-    "dataImage":"pr"
+    "dataImage":"pr.png"
   },
   {
     "dataTitle": "Adobe Animate",
     "desc": "Adobe Animate adalah aplikasi pengeditan video yang dikembangkan oleh Adobe Systems. Program ini memungkinkan penggunanya untuk mengedit, memanipulasi, dan memperbaiki foto dan gambar digital dengan berbagai alat seperti pensil, kuas, dan filter.",
-    "dataImage":"an"
+    "dataImage":"an.png"
   },
   {
     "dataTitle": "Adobe After Effects",
     "desc": "Adobe After Effects adalah aplikasi pengeditan video yang dikembangkan oleh Adobe Systems. Program ini memungkinkan penggunanya untuk mengedit, memanipulasi, dan memperbaiki foto dan gambar digital dengan berbagai alat seperti pensil, kuas, dan filter.",
-    "dataImage":"ae"
+    "dataImage":"ae.png"
   },
   {
     "dataTitle": "Adobe Illustrator",
     "desc": "Adobe Illustrator adalah aplikasi pengeditan video yang dikembangkan oleh Adobe Systems. Program ini memungkinkan penggunanya untuk mengedit, memanipulasi, dan memperbaiki foto dan gambar digital dengan berbagai alat seperti pensil, kuas, dan filter.",
-    "dataImage":"ai"
+    "dataImage":"ai.png"
   },
   {
     "dataTitle": "Adobe InDesign",
     "desc": "Adobe InDesign adalah aplikasi pengeditan video yang dikembangkan oleh Adobe Systems. Program ini memungkinkan penggunanya untuk mengedit, memanipulasi, dan memperbaiki foto dan gambar digital dengan berbagai alat seperti pensil, kuas, dan filter.",
-    "dataImage":"id"
+    "dataImage":"id.png"
   },
   {
     "dataTitle": "Adobe XD",
     "desc": "Adobe XD adalah aplikasi pengeditan video yang dikembangkan oleh Adobe Systems. Program ini memungkinkan penggunanya untuk mengedit, memanipulasi, dan memperbaiki foto dan gambar digital dengan berbagai alat seperti pensil, kuas, dan filter.",
-    "dataImage":"xd"
+    "dataImage":"xd.png"
   },
   {
     "dataTitle": "Figma",
     "desc": "Figma adalah aplikasi pengeditan video yang dikembangkan oleh Adobe Systems. Program ini memungkinkan penggunanya untuk mengedit, memanipulasi, dan memperbaiki foto dan gambar digital dengan berbagai alat seperti pensil, kuas, dan filter.",
-    "dataImage":"fg"
+    "dataImage":"fg.png"
   }
 ]
 
